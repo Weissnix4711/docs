@@ -3,12 +3,15 @@
 Following Release Notes describe the status of Open Source Software development
 for Dasharo Tools Suite.
 
-## Latest release
+## **Latest release**
 
 Versions after `v1.2.11` are published on `meta-dts` GitHub repository, inside
 [Releases](https://github.com/Dasharo/meta-dts/releases) tab so latest image can
 be downloaded from there.
 
+Using the latest release is recommended.
+
+<!--
 ## v1.2.11 - 2023-11-03
 
 ### Images
@@ -74,14 +77,12 @@ Beta/preview release
 ### Images
 
 [USB bootable DTS v1.2.6 image][USB_DTS_v1.2.6]{ .md-button }
-<!--
 [sha256][USB_DTS_sha_v1.2.6]{ .md-button }
 [sha256.sig][USB_DTS_sig_v1.2.6]{ .md-button }
 
 [DTS v1.2.6 ISO image][ISO_DTS_v1.2.6]{ .md-button }
 [sha256 ISO][ISO_DTS_sha_v1.2.6]{ .md-button }
 [sha256.sig ISO][ISO_DTS_sig_v1.2.6]{ .md-button }
--->
 
 [USB_DTS_v1.2.6]: https://3mdeb.com/open-source-firmware/DTS/dts-base-image-v1.2.6.wic.gz
 [ISO_DTS_v1.2.6]: https://3mdeb.com/open-source-firmware/DTS/dts-base-image-v1.2.6.iso
@@ -287,3 +288,4 @@ stored in `meta-dts` repository.
 * [Bootable via iPXE](./documentation.md#bootable-over-a-network).
 * [Bootable via USB](./documentation.md#bootable-usb-stick).
 * Tested on NovaCustom NV4x, Dell OptiPlex 7010/9010.
+-->
